@@ -1,0 +1,103 @@
+body {
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    background-image:url('resources/background_gradient.gif');
+    background-repeat: repeat-y;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a:link {
+   color: #cf0002 
+}
+
+a:visited {
+    color: #8F1719;
+}
+
+.covid_notice h2  {
+    color: #7E7D10;
+    text-align: center;
+}
+
+.covid_notice p {
+    margin: 10px;
+}
+
+.banner {
+    margin-left: 300px
+}
+
+.content {
+    margin-left: 180px;
+    width: 850px;
+    font-family: arial;
+}
+
+.header_text {
+    font-size: 25pt;
+    font-family: arial;
+    font-weight: 700;
+    color: #190;
+    margin-left: 250px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.covid_notice {
+    background-color: #fffffa;
+    border: 1px solid black;
+}
+
+.gallery {
+    background-color: #fffffa;
+    border: 1px solid black;
+    width: 700
+}
+
+.gallery_image {
+    width: 245px;
+    height: 188px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.gallery_headshot {
+    width: 141px;
+}
+
+.gallery_caption {
+    margin-left: 15px;
+}
+
+.contact_entry {
+    margin-top:30px;
+}
+
+.contact_entry h3 {
+    color: #149816;
+    text-decoration: underline;
+}
+
+#headshot {
+    float: right;
+    width: 248;
+    height: 367;
+}
+
+#square_dance {
+    width:421;
+    height:342;
+    margin: 10px;
+    float: left;
+}
+
+#square_dance_logo {
+    width: 196px;
+    height: 196;
+    margin 110px;
+    float:right
+}
+
